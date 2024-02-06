@@ -1,0 +1,45 @@
+TempleOS (formerly J Operating System, LoseThos, and SparrowOS) is a biblical-themed lightweight operating system (OS) designed to be the Third Temple prophesied in the Bible. It was created by American programmer Terry A. Davis, who developed it alone over the course of a decade after a series of manic episodes that he later described as a revelation from God.
+The system was characterized as a modern x86-64 Commodore 64, using an interface similar to a mixture of DOS and Turbo C. Davis proclaimed that the system's features, such as its 640x480 resolution, 16-color display, and single-voice audio, were designed according to explicit instructions from God. It was programmed with an original variation of C (named HolyC) in place of BASIC, and included an original flight simulator, compiler, and kernel.
+First released in 2005 as J Operating System, TempleOS was renamed in 2013 and was last updated in 2018.
+
+
+== Background ==
+
+Terry A. Davis (1969-2018) began experiencing regular manic episodes in 1996, leading him to numerous stays at mental hospitals. Initially diagnosed with bipolar disorder, he was later declared schizophrenic and remained unemployed for the rest of his life. He suffered from delusions of space aliens and government agents that left him briefly hospitalized for his mental health issues. After experiencing a self-described "revelation", he proclaimed that he was in direct communication with God, and that God told him the operating system was for God's third temple.Davis began developing TempleOS circa 2003. One of its early names was the "J Operating System" before renaming it to "LoseThos", a reference to a scene from the 1986 film Platoon. In 2008, Davis wrote that LoseThos was "primarily for making video games. It has no networking or Internet support. As far as I'm concerned, that would be reinventing the wheel". Another name he used was "SparrowOS" before settling on "TempleOS". In mid-2013, his website announced: "God's temple is finished. Now, God kills CIA until it spreads  [sic]."  Davis died after being hit by a train on August 11, 2018.
+
+
+== System overview ==
+TempleOS is a 64-bit, non-preemptive multi-tasking, multi-cored, public domain, open source, ring-0-only, single address space, non-networked, PC operating system for recreational programming. The OS runs 8-bit ASCII with graphics in source code and has a 2D and 3D graphics library, which run at 640x480 VGA with 16 colors. Like most modern operating systems, it has keyboard and mouse support. It supports ISO 9660, FAT32 and RedSea file systems (the latter created by Davis) with support for file compression. According to Davis, many of these specifications-such as the 640x480 resolution, 16-color display and single audio voice-were instructed to him by God. He explained that the limited resolution was to make it easier for children to draw illustrations for God.The operating system includes an original flight simulator, compiler, and kernel. One bundled program, "After Egypt", is a game in which the player travels to a burning bush to use a "high-speed stopwatch". The stopwatch is meant to act as an oracle that generates pseudo-random text, something Davis likened to a Ouija board and glossolalia. An example of generated text follows:
+
+among consigned penally result perverseness checked stated held sensation reasonings skies adversity Dakota lip Suffer approached enact displacing feast Canst pearl doing alms comprehendeth nought
+TempleOS was written in a programming language developed by Davis as a middle ground between C and C++, originally called "C+" (C Plus), later renamed to "HolyC", possibly a reference to the Holy See. It doubles as the shell language, enabling the writing and execution of entire applications from within the shell. The IDE that comes with TempleOS supports several features, such as embedding images in code. It uses a non-standard text format (known as DolDoc) which has support for hypertext links, images, and 3D meshes to be embedded into what are otherwise standard ASCII files; for example, a file can have a spinning 3D model of a tank as a comment in source code. Most code in the OS is JIT-compiled, and it is generally encouraged to use JIT compilation as opposed to creating binaries. Davis ultimately wrote over 100,000 lines of code for the OS.
+
+
+== Critical reception ==
+TempleOS received mostly "sympathetic" reviews. Tech journalist David Cassel opined that "programming websites tried to find the necessary patience and understanding to accommodate Davis". TechRepublic and OSNews published positive articles on Davis's work, even though Davis was banned from the latter for hostile comments targeting its readers and staff. In his review for TechRepublic, James Sanders concluded that "TempleOS is a testament to the dedication and passion of one man displaying his technological prowess. It doesn't need to be anything more." OSNews editor Kroc Camen wrote that the OS "shows that computing can still be a hobby; why is everybody so serious these days? If I want to code an OS that uses interpretive dance as the input method, I should be allowed to do so, companies like Apple be damned." In 2017, the OS was shown as a part of an outsider art exhibition in Bourgogne, France.
+
+
+== Legacy ==
+After Davis' death, OSNews editor Thom Holwerda wrote: "Davis was clearly a gifted programmer - writing an entire operating system is no small feat - and it was sad to see him affected by his mental illness". One fan described Davis as a "programming legend", while another, a computer engineer, compared the development of TempleOS to a one-man-built skyscraper. He added that it "actually boggles my mind that one man wrote all that" and that it was "hard for a layperson to understand what a phenomenal achievement" it is to write an entire operating system alone.TempleOS is in the public domain. Davis's family has wished for fans to donate to the National Alliance for Mental Illness and other organizations "working to ease the pain and suffering caused by mental illness".
+
+
+== Forks ==
+ZealOS - The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System.
+TinkerOS
+
+
+== See also ==
+Creativity and mental health
+Biblical software
+Religion and video games
+
+
+== References ==
+
+
+== External links ==
+TempleOS Website
+Comprehensive archive of TempleOS and Terry A. Davis material
+Archive of the TempleOS website and operating system
+Archive of the TempleOS bootable ISO images
+TempleOS source code
